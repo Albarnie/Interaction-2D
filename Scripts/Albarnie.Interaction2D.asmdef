@@ -1,0 +1,15 @@
+{
+    "name": "Albarnie.Interaction2D",
+    "references": [
+        "GUID:495c0b67596e0ad46a18107113c61238"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
